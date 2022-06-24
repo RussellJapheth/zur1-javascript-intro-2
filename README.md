@@ -1,1 +1,3 @@
-# zur1-javascript-intro-2
+# Zuri Javascript Intro 2
+
+## Here be dragons 🐉
